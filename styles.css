@@ -1,0 +1,83 @@
+.titulo{
+    text-align: center;
+    font-size: 36px;
+    height: 150px;
+    font-family: 'Segoe Print';
+}
+.art-tit{
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: normal;
+}
+.art-p{
+    padding:5px;
+}
+.cont{
+    display: flex;
+    border: 1px solid;
+    flex-direction: column;
+
+}
+.cont-up{
+    display: flex;
+}
+.cont-izq{
+    border:1px solid;
+    width: 25%;
+}
+.cont-cen{
+    border:1px solid;
+    width: 50%;
+    padding: 5px;
+}
+.cont-der{
+    border:1px solid;
+    width: 25%;
+}
+.cont-do{
+    display: flex;
+}
+.do-izq{
+    width: 25%;
+    border:1px solid;
+}
+.do-der{
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+}
+.menu{
+    display: flex;
+    font-weight: bold;
+    font-size: 26px;
+    flex: 1;
+}
+.pol{
+    padding-left: 15px;
+    align-items: center;
+    background-color: yellow;
+}
+.tec{
+    padding-left: 15px;
+    align-items: center;
+    background-color: aqua;
+}
+.loc{
+    padding-left: 15px;
+    align-items: center;
+    background-color: green;
+}
+.opi{
+    padding-left: 15px;
+    align-items: center;
+    background-color:mediumaquamarine
+}
+.spo{
+    padding-left: 15px;
+    align-items: center;
+    background-color:violet;
+}
+.perrito{
+    width: 100%;
+}
